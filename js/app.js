@@ -236,16 +236,28 @@ document.addEventListener('DOMContentLoaded', () => {
       response: "🌾 Under **PMFBY (Pradhan Mantri Fasal Bima Yojana)**, farmers pay a capped nominal premium:\n• **Kharif Crops**: 2.0%\n• **Rabi Crops**: 1.5%\n• **Commercial/Horticultural**: 5.0%\n\nThe remaining actuarial premium is shared 50:50 between the Central & State Governments! You can use our live **Crop Risk Calculator** above to compute exact numbers."
     },
     {
-      keywords: ['reinsurance', 'treaty', 'underwriting', 'analytics'],
-      response: "📊 **Sasya Sarthi Reinsurance Analytics**: We provide treaty design, exposure mapping, ground-truthing verification, and loss ratio prediction models using satellite NDVI and historic CCE (Crop Cutting Experiment) data across 15+ Indian states."
+      keywords: ['reinsurance', 'treaty', 'underwriting', 'analytics', 'cat-modelling'],
+      response: "📊 **Sasya Sarthi Reinsurance Analytics**: We provide actuarial-grade portfolio scoring, cat-modelling APIs, treaty design, exposure mapping, ground-truthing verification, and loss ratio prediction models using satellite NDVI and 20 years of CCE yield data."
     },
     {
-      keywords: ['smartvillage', 'iot', 'weather', 'satellite', 'ndvi'],
-      response: "📡 **ARC SmartVillage & FarmGenie Platform**: Our digital ecosystem combines micro-weather stations, drone mapping, and satellite imagery to provide hyper-local weather alerts, pest advisories, and claim automation for Gram Panchayats."
+      keywords: ['smartvillage', 'iot', 'weather', 'satellite', 'ndvi', 'vernacular'],
+      response: "📡 **Sasya SmartVillage SaaS Stack**: Integrated platform for farmers, FPOs, and ag-officers available in **11 Indian languages**. Includes micro-weather sensors, drone ground-truthing, and automated claims triage."
     },
     {
-      keywords: ['contact', 'office', 'consultation', 'phone'],
-      response: "📞 You can reach **Sasya Sarthi Tech Solutions** at:\n• **Email**: info@agriskconsultant.com / contact@sasyasarthi.com\n• **Phone**: +91-7021701006\n• **Services**: Insurance Underwriting, Reinsurance Analytics, SmartVillage Solutions."
+      keywords: ['drone', 'squad', 'mapping', 'orthomosaic', 'cce'],
+      response: "🚁 **DGCA-Licensed Drone Fleet**: Our licensed drone squads perform high-resolution orthomosaic crop mapping, spot-damage verification, and CCE yield audits to eliminate fraud for insurance partners."
+    },
+    {
+      keywords: ['api', 'pas', 'cas', 'integration', 'webhook', 'kafka', 'sftp'],
+      response: "🔌 **Enterprise Integration & APIs**: Sasya Sarthi connects seamlessly to major PAS/CAS insurance core systems using REST Webhooks, SFTP batch sync, and Apache Kafka real-time event streams."
+    },
+    {
+      keywords: ['security', 'data', 'privacy', 'irdai'],
+      response: "🔒 **Security & IRDAI Compliance**: All data is encrypted in transit and at rest. Models follow IRDAI regulatory guidelines and strict ISO 27001 data protection protocols."
+    },
+    {
+      keywords: ['contact', 'office', 'consultation', 'phone', 'email'],
+      response: "📞 You can reach **Sasya Sarthi Tech Solutions** at:\n• **Email**: info@agriskconsultant.com / contact@sasyasarthi.com\n• **Phone**: +91-7021701006\n• **Services**: Insurance Underwriting, Reinsurance Analytics, SmartVillage Stack."
     }
   ];
 
@@ -263,7 +275,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Simulated Bot Typing Delay
     setTimeout(() => {
-      let replyText = "I'm **Sasya AI Sarthi**, your digital agriculture risk assistant! I can help you with PMFBY insurance claims, crop yield risk modeling, reinsurance exposure analytics, and SmartVillage technology solutions. Feel free to ask any question!";
+      let replyText = "I'm **Sasya AI Sarthi**, your digital agriculture risk assistant! I can help you with PMFBY insurance claims, actuarial cat-modelling APIs, reinsurance exposure analytics, drone ground-truthing, and SmartVillage technology. Feel free to ask any question!";
       
       const lowerText = text.toLowerCase();
       for (const item of aiKnowledge) {
@@ -326,7 +338,15 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 5. Contact Form Submission Notification
+  // 5. FAQ Accordion Listener
+  document.querySelectorAll('.faq-question').forEach(q => {
+    q.addEventListener('click', () => {
+      const parent = q.parentElement;
+      parent.classList.toggle('active');
+    });
+  });
+
+  // 6. Contact Form Submission Notification
   const contactForm = document.getElementById('contactForm');
   if (contactForm) {
     contactForm.addEventListener('submit', (e) => {
@@ -336,3 +356,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+

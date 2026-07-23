@@ -1,0 +1,2179 @@
+=== SEARCH TERM: Hectares ===
+=== SEARCH TERM: Reinsurance ===
+ quote: "Their actuarial rigor combined with the drone ground-truthing gave our reinsurance treaty the credibility we needed.",
+  name: "Head of Agri Reinsurance",
+  org: "Global Reinsurer"
+}];
+const insights = [{
+  title: "Monsoon 2025 Outlook: Preparing PMFBY Portfolios for La Niña Rebound",
+  dat
+-----------------------------------
+e: "For Insurers & Reinsurers",
+  price: "Custom",
+  features: ["Everything in State", "Actuarial & cat-modelling APIs", "Claims triage automation", "Reinsurance treaty analytics", "24×7 SLA & DR"]
+}];
+function SmartVillage() {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_
+-----------------------------------
+=== SEARCH TERM: Underwriting ===
+,
+  label: "States Covered"
+}, {
+  value: "99.2%",
+  label: "Claim Accuracy"
+}];
+const services = [{
+  id: "underwriting",
+  title: "Risk Analytics & Underwriting",
+  tag: "For Insurers & Reinsurers",
+  description: "Actuarial-grade portfolio scoring, exposure modelling and treaty analytics powered 
+-----------------------------------
+                  role: e.target.value
+                  }),
+                  className: "mt-1.5 h-11",
+                  placeholder: "Head of Agri Underwriting",
+                  "x-file-name": "Contact",
+                  "x-line-number": "85",
+                  "x-column": "18",
+              
+-----------------------------------
+act_92_22",
+                      "x-dynamic": "false",
+                      "x-excluded": "true",
+                      children: "Risk Analytics & Underwriting"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 92,
+            
+-----------------------------------
+=== SEARCH TERM: Actuarial ===
+Accuracy"
+}];
+const services = [{
+  id: "underwriting",
+  title: "Risk Analytics & Underwriting",
+  tag: "For Insurers & Reinsurers",
+  description: "Actuarial-grade portfolio scoring, exposure modelling and treaty analytics powered by 20 years of yield, weather and remote-sensing data.",
+  image: "
+-----------------------------------
+ons",
+  desc: "DGCA-licensed drone fleet for orthomosaic mapping, spot-spraying and ground-truth verification."
+}, {
+  icon: "ShieldCheck",
+  title: "Actuarial Rigor",
+  desc: "IRDAI-aligned pricing, reinsurance treaty design and loss reserving supported by IIA-certified actuaries."
+}, {
+  icon: "La
+-----------------------------------
+y is our default. Village averages hide the truth."
+}, {
+  icon: lucide_react__WEBPACK_IMPORTED_MODULE_6__["default"],
+  title: "Integrity",
+  desc: "Actuarial and scientific rigor in every model, dashboard and report we ship."
+}, {
+  icon: lucide_react__WEBPACK_IMPORTED_MODULE_7__["default"],
+  tit
+-----------------------------------
+"On-ground drone squads"]
+}, {
+  name: "Enterprise",
+  subtitle: "For Insurers & Reinsurers",
+  price: "Custom",
+  features: ["Everything in State", "Actuarial & cat-modelling APIs", "Claims triage automation", "Reinsurance treaty analytics", "24×7 SLA & DR"]
+}];
+function SmartVillage() {
+  return /
+-----------------------------------
+=== SEARCH TERM: SmartVillage ===
+ages_Services__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./pages/Services */ "./src/pages/Services.jsx");
+/* harmony import */ var _pages_SmartVillage__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./pages/SmartVillage */ "./src/pages/SmartVillage.jsx");
+/* harmony import */ var 
+-----------------------------------
+/Services */ "./src/pages/Services.jsx");
+/* harmony import */ var _pages_SmartVillage__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./pages/SmartVillage */ "./src/pages/SmartVillage.jsx");
+/* harmony import */ var _pages_Insights__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./pa
+-----------------------------------
+_.Route, {
+            path: "/smartvillage",
+            element: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)(_pages_SmartVillage__WEBPACK_IMPORTED_MODULE_9__["default"], {
+              "x-file-name": "App",
+              "x-line-number": "32",
+              "x-colu
+-----------------------------------
+["default"], {
+              "x-file-name": "App",
+              "x-line-number": "32",
+              "x-column": "49",
+              "x-component": "SmartVillage",
+              "x-id": "App_32_49",
+              "x-dynamic": "true"
+            }, void 0, false, {
+              fileName: _jsxFileNa
+-----------------------------------
+, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 50,
+                columnNumber: 17
+              }, this), " SmartVillage in action"]
+            }, void 0, true, {
+              fileName: _jsxFileName,
+              lineNumber: 49,
+              columnNumber
+-----------------------------------
+",
+  bullets: ["Coverage strategy & marketing", "Enrolment audit & reconciliation", "Grievance analytics"]
+}, {
+  id: "smartvillage",
+  title: "Sasya SmartVillage Platform",
+  tag: "Digital Agri Stack",
+  description: "A modular SaaS suite giving villages, FPOs and agri-officers real-time crop, weat
+-----------------------------------
+days ahead of schedule. Their satellite pipeline is best-in-class.",
+  name: "General Manager",
+  org: "A Leading General Insurer"
+}, {
+  quote: "The SmartVillage rollout in 300 gram panchayats has become a model for our state's digital agriculture programme.",
+  name: "Additional Director, Agricult
+-----------------------------------
+Is and connects to major PAS/CAS platforms with SFTP, Kafka or webhook connectors."
+}, {
+  q: "Do you work directly with farmers?",
+  a: "Through our SmartVillage programme and FPO partnerships — but our commercial contracts are with insurers, banks and governments."
+}, {
+  q: "Is your data secure?"
+-----------------------------------
+"
+}];
+const navLinks = [{
+  label: "Home",
+  to: "/"
+}, {
+  label: "About",
+  to: "/about"
+}, {
+  label: "Services",
+  to: "/services"
+}, {
+  label: "SmartVillage",
+  to: "/smartvillage"
+}, {
+  label: "Insights",
+  to: "/insights"
+}, {
+  label: "Team",
+  to: "/team"
+}, {
+  label: "Contact",
+  to: "/
+-----------------------------------
+    "x-id": "Contact_95_22",
+                      "x-dynamic": "false",
+                      "x-excluded": "true",
+                      children: "SmartVillage Platform"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 95,
+   
+-----------------------------------
+rrentExports$.then($ReactRefreshModuleRuntime$);
+} else {
+	$ReactRefreshModuleRuntime$($ReactRefreshCurrentExports$);
+}
+
+/***/ },
+
+/***/ "./src/pages/SmartVillage.jsx"
+/*!************************************!*\
+  !*** ./src/pages/SmartVillage.jsx ***!
+  \************************************/
+(module
+-----------------------------------
+ntime$($ReactRefreshCurrentExports$);
+}
+
+/***/ },
+
+/***/ "./src/pages/SmartVillage.jsx"
+/*!************************************!*\
+  !*** ./src/pages/SmartVillage.jsx ***!
+  \************************************/
+(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__
+-----------------------------------
+re__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ SmartVillage)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/
+-----------------------------------
+ack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+
+var _jsxFileName = "/app/frontend/src/pages/SmartVillage.jsx";
+
+
+
+
+
+
+
+
+const modules = [{
+  icon: lucide_react__WEBPACK_IMPORTED_MODULE_7__["default"],
+  title: "Farmer App",
+  desc: "Vernacular
+-----------------------------------
+: ["Everything in State", "Actuarial & cat-modelling APIs", "Claims triage automation", "Reinsurance treaty analytics", "24×7 SLA & DR"]
+}];
+function SmartVillage() {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1
+-----------------------------------
+0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)(_components_PageHeader__WEBPACK_IMPORTED_MODULE_1__["default"], {
+      eyebrow: "Sasya SmartVillage",
+      title: "The digital agri stack, in the palm of every farmer.",
+      subtitle: "An integrated SaaS platform for farmers, FPOs, ag
+-----------------------------------
+ers and governments \u2014 delivered in 11 Indian languages.",
+      image: _mock__WEBPACK_IMPORTED_MODULE_2__.heroImages.main,
+      "x-file-name": "SmartVillage",
+      "x-line-number": "26",
+      "x-column": "6",
+      "x-component": "PageHeader",
+      "x-id": "SmartVillage_26_6",
+      "x-dyna
+-----------------------------------
+ages.main,
+      "x-file-name": "SmartVillage",
+      "x-line-number": "26",
+      "x-column": "6",
+      "x-component": "PageHeader",
+      "x-id": "SmartVillage_26_6",
+      "x-dynamic": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 26,
+      columnNumber: 7
+    },
+-----------------------------------
+PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("section", {
+      className: "py-16 lg:py-20 bg-white",
+      "x-file-name": "SmartVillage",
+      "x-line-number": "33",
+      "x-column": "6",
+      "x-component": "section",
+      "x-id": "SmartVillage_33_6",
+      "x-dynamic
+-----------------------------------
+20 bg-white",
+      "x-file-name": "SmartVillage",
+      "x-line-number": "33",
+      "x-column": "6",
+      "x-component": "section",
+      "x-id": "SmartVillage_33_6",
+      "x-dynamic": "false",
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div", {
+ 
+-----------------------------------
+/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div", {
+        className: "max-w-7xl mx-auto px-5 lg:px-8",
+        "x-file-name": "SmartVillage",
+        "x-line-number": "34",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "SmartVillage_34_8",
+        "x-d
+-----------------------------------
+:px-8",
+        "x-file-name": "SmartVillage",
+        "x-line-number": "34",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "SmartVillage_34_8",
+        "x-dynamic": "false",
+        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div",
+-----------------------------------
+dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div", {
+          className: "grid md:grid-cols-2 lg:grid-cols-5 gap-4",
+          "x-file-name": "SmartVillage",
+          "x-line-number": "35",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "SmartVillage_35_10",
+  
+-----------------------------------
+       "x-file-name": "SmartVillage",
+          "x-line-number": "35",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "SmartVillage_35_10",
+          "x-dynamic": "true",
+          "x-source-type": "computed",
+          "x-source-editable": "false",
+          children:
+-----------------------------------
+      className: "card-hover rounded-2xl border border-emerald-900/10 p-6 bg-gradient-to-br from-white to-emerald-50/40",
+            "x-file-name": "SmartVillage",
+            "x-line-number": "37",
+            "x-column": "14",
+            "x-component": "div",
+            "x-id": "SmartVillage_37
+-----------------------------------
+x-file-name": "SmartVillage",
+            "x-line-number": "37",
+            "x-column": "14",
+            "x-component": "div",
+            "x-id": "SmartVillage_37_14",
+            "x-dynamic": "false",
+            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxD
+-----------------------------------
+3__.jsxDEV)("div", {
+              className: "w-10 h-10 rounded-lg bg-emerald-800 text-white grid place-items-center",
+              "x-file-name": "SmartVillage",
+              "x-line-number": "38",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "SmartVi
+-----------------------------------
+ame": "SmartVillage",
+              "x-line-number": "38",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "SmartVillage_38_16",
+              "x-dynamic": "false",
+              children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.j
+-----------------------------------
+URE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)(m.icon, {
+                className: "w-5 h-5",
+                "x-file-name": "SmartVillage",
+                "x-line-number": "38",
+                "x-column": "104",
+                "x-component": "icon",
+                "x-id"
+-----------------------------------
+rtVillage",
+                "x-line-number": "38",
+                "x-column": "104",
+                "x-component": "icon",
+                "x-id": "SmartVillage_38_104",
+                "x-dynamic": "false"
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                l
+-----------------------------------
+PORTED_MODULE_13__.jsxDEV)("h3", {
+              className: "font-display text-lg font-semibold text-emerald-950 mt-4",
+              "x-file-name": "SmartVillage",
+              "x-line-number": "39",
+              "x-column": "16",
+              "x-component": "h3",
+              "x-id": "SmartVil
+-----------------------------------
+name": "SmartVillage",
+              "x-line-number": "39",
+              "x-column": "16",
+              "x-component": "h3",
+              "x-id": "SmartVillage_39_16",
+              "x-dynamic": "true",
+              "x-source-type": "static-imported",
+              "x-source-var": "modules",
+   
+-----------------------------------
+             "x-source-type": "static-imported",
+              "x-source-var": "modules",
+              "x-source-file-abs": "/app/frontend/src/pages/SmartVillage.jsx",
+              "x-source-line": "9",
+              "x-source-path": "title",
+              "x-source-editable": "true",
+            
+-----------------------------------
+BPACK_IMPORTED_MODULE_13__.jsxDEV)("p", {
+              className: "text-[13px] text-slate-600 mt-1.5 leading-relaxed",
+              "x-file-name": "SmartVillage",
+              "x-line-number": "40",
+              "x-column": "16",
+              "x-component": "p",
+              "x-id": "SmartVill
+-----------------------------------
+-name": "SmartVillage",
+              "x-line-number": "40",
+              "x-column": "16",
+              "x-component": "p",
+              "x-id": "SmartVillage_40_16",
+              "x-dynamic": "true",
+              "x-source-type": "static-imported",
+              "x-source-var": "modules",
+   
+-----------------------------------
+             "x-source-type": "static-imported",
+              "x-source-var": "modules",
+              "x-source-file-abs": "/app/frontend/src/pages/SmartVillage.jsx",
+              "x-source-line": "9",
+              "x-source-path": "desc",
+              "x-source-editable": "true",
+             
+-----------------------------------
+#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("section", {
+      className: "py-20 bg-slate-50/60",
+      "x-file-name": "SmartVillage",
+      "x-line-number": "47",
+      "x-column": "6",
+      "x-component": "section",
+      "x-id": "SmartVillage_47_6",
+      "x-dynamic
+-----------------------------------
+slate-50/60",
+      "x-file-name": "SmartVillage",
+      "x-line-number": "47",
+      "x-column": "6",
+      "x-component": "section",
+      "x-id": "SmartVillage_47_6",
+      "x-dynamic": "false",
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div", {
+ 
+-----------------------------------
+/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div", {
+        className: "max-w-7xl mx-auto px-5 lg:px-8",
+        "x-file-name": "SmartVillage",
+        "x-line-number": "48",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "SmartVillage_48_8",
+        "x-d
+-----------------------------------
+:px-8",
+        "x-file-name": "SmartVillage",
+        "x-line-number": "48",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "SmartVillage_48_8",
+        "x-dynamic": "false",
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div"
+-----------------------------------
+_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div", {
+          className: "text-center max-w-2xl mx-auto mb-12",
+          "x-file-name": "SmartVillage",
+          "x-line-number": "49",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "SmartVillage_49_10",
+  
+-----------------------------------
+       "x-file-name": "SmartVillage",
+          "x-line-number": "49",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "SmartVillage_49_10",
+          "x-dynamic": "false",
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)(
+-----------------------------------
+_.jsxDEV)("div", {
+            className: "text-[10.5px] uppercase tracking-[0.2em] font-semibold text-emerald-700 mb-3",
+            "x-file-name": "SmartVillage",
+            "x-line-number": "50",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "SmartVillage_50
+-----------------------------------
+x-file-name": "SmartVillage",
+            "x-line-number": "50",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "SmartVillage_50_12",
+            "x-dynamic": "false",
+            children: "Deployment tiers"
+          }, void 0, false, {
+            fileName: _j
+-----------------------------------
+ED_MODULE_13__.jsxDEV)("h2", {
+            className: "font-display text-3xl lg:text-4xl font-semibold text-emerald-950",
+            "x-file-name": "SmartVillage",
+            "x-line-number": "51",
+            "x-column": "12",
+            "x-component": "h2",
+            "x-id": "SmartVillage_51_
+-----------------------------------
+"x-file-name": "SmartVillage",
+            "x-line-number": "51",
+            "x-column": "12",
+            "x-component": "h2",
+            "x-id": "SmartVillage_51_12",
+            "x-dynamic": "false",
+            children: "One platform. Three deployment tiers."
+          }, void 0, false, {
+   
+-----------------------------------
+*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("div", {
+          className: "grid lg:grid-cols-3 gap-5",
+          "x-file-name": "SmartVillage",
+          "x-line-number": "54",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "SmartVillage_54_10",
+  
+-----------------------------------
+       "x-file-name": "SmartVillage",
+          "x-line-number": "54",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "SmartVillage_54_10",
+          "x-dynamic": "true",
+          "x-source-type": "computed",
+          "x-source-editable": "false",
+          children:
+-----------------------------------
+0 text-white border-emerald-800 shadow-2xl shadow-emerald-900/25 lg:-translate-y-3" : "bg-white border-emerald-900/10"}`,
+            "x-file-name": "SmartVillage",
+            "x-line-number": "56",
+            "x-column": "14",
+            "x-component": "div",
+            "x-id": "SmartVillage_56
+-----------------------------------
+x-file-name": "SmartVillage",
+            "x-line-number": "56",
+            "x-column": "14",
+            "x-component": "div",
+            "x-id": "SmartVillage_56_14",
+            "x-dynamic": "false",
+            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxD
+-----------------------------------
+assName: `text-[11px] uppercase tracking-widest font-semibold ${t.featured ? "text-emerald-300" : "text-emerald-700"}`,
+              "x-file-name": "SmartVillage",
+              "x-line-number": "57",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "SmartVi
+-----------------------------------
+ame": "SmartVillage",
+              "x-line-number": "57",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "SmartVillage_57_16",
+              "x-dynamic": "true",
+              "x-source-type": "static-imported",
+              "x-source-var": "tiers",
+     
+-----------------------------------
+
+              "x-source-type": "static-imported",
+              "x-source-var": "tiers",
+              "x-source-file-abs": "/app/frontend/src/pages/SmartVillage.jsx",
+              "x-source-line": "17",
+              "x-source-path": "subtitle",
+              "x-source-editable": "true",
+        
+-----------------------------------
+time__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("h3", {
+              className: "font-display text-3xl font-semibold mt-2",
+              "x-file-name": "SmartVillage",
+              "x-line-number": "58",
+              "x-column": "16",
+              "x-component": "h3",
+              "x-id": "SmartVil
+-----------------------------------
+name": "SmartVillage",
+              "x-line-number": "58",
+              "x-column": "16",
+              "x-component": "h3",
+              "x-id": "SmartVillage_58_16",
+              "x-dynamic": "true",
+              "x-source-type": "static-imported",
+              "x-source-var": "tiers",
+     
+-----------------------------------
+
+              "x-source-type": "static-imported",
+              "x-source-var": "tiers",
+              "x-source-file-abs": "/app/frontend/src/pages/SmartVillage.jsx",
+              "x-source-line": "17",
+              "x-source-path": "name",
+              "x-source-editable": "true",
+            
+-----------------------------------
+13__.jsxDEV)("div", {
+              className: `mt-2 text-sm ${t.featured ? "text-emerald-200/80" : "text-slate-500"}`,
+              "x-file-name": "SmartVillage",
+              "x-line-number": "59",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "SmartVi
+-----------------------------------
+ame": "SmartVillage",
+              "x-line-number": "59",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "SmartVillage_59_16",
+              "x-dynamic": "true",
+              "x-source-type": "static-imported",
+              "x-source-var": "tiers",
+     
+-----------------------------------
+
+              "x-source-type": "static-imported",
+              "x-source-var": "tiers",
+              "x-source-file-abs": "/app/frontend/src/pages/SmartVillage.jsx",
+              "x-source-line": "17",
+              "x-source-path": "price",
+              "x-source-editable": "true",
+           
+-----------------------------------
+RE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("ul", {
+              className: "mt-6 space-y-3",
+              "x-file-name": "SmartVillage",
+              "x-line-number": "60",
+              "x-column": "16",
+              "x-component": "ul",
+              "x-id": "SmartVil
+-----------------------------------
+name": "SmartVillage",
+              "x-line-number": "60",
+              "x-column": "16",
+              "x-component": "ul",
+              "x-id": "SmartVillage_60_16",
+              "x-dynamic": "true",
+              "x-source-type": "computed",
+              "x-source-editable": "false",
+       
+-----------------------------------
+time__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)("li", {
+                className: "flex items-start gap-2 text-[13.5px]",
+                "x-file-name": "SmartVillage",
+                "x-line-number": "62",
+                "x-column": "20",
+                "x-component": "li",
+                "x-id": "
+-----------------------------------
+SmartVillage",
+                "x-line-number": "62",
+                "x-column": "20",
+                "x-component": "li",
+                "x-id": "SmartVillage_62_20",
+                "x-dynamic": "true",
+                "x-source-type": "static-imported",
+                "x-source-var": "t",
+   
+-----------------------------------
+ ${t.featured ? "bg-white text-emerald-900 hover:bg-emerald-50" : "bg-emerald-800 text-white hover:bg-emerald-900"}`,
+                "x-file-name": "SmartVillage",
+                "x-line-number": "66",
+                "x-column": "18",
+                "x-component": "Button",
+                "x-id
+-----------------------------------
+tVillage",
+                "x-line-number": "66",
+                "x-column": "18",
+                "x-component": "Button",
+                "x-id": "SmartVillage_66_18",
+                "x-dynamic": "true",
+                "x-source-type": "static-imported",
+                "x-source-var": "tiers",
+-----------------------------------
+           "x-source-type": "static-imported",
+                "x-source-var": "tiers",
+                "x-source-file-abs": "/app/frontend/src/pages/SmartVillage.jsx",
+                "x-source-line": "17",
+                "x-source-editable": "true",
+                "x-array-var": "tiers",
+       
+-----------------------------------
+MODULE_13__.jsxDEV)(lucide_react__WEBPACK_IMPORTED_MODULE_4__["default"], {
+                  className: "w-4 h-4",
+                  "x-file-name": "SmartVillage",
+                  "x-line-number": "67",
+                  "x-column": "33",
+                  "x-component": "ArrowUpRight",
+         
+-----------------------------------
+               "x-line-number": "67",
+                  "x-column": "33",
+                  "x-component": "ArrowUpRight",
+                  "x-id": "SmartVillage_67_33",
+                  "x-dynamic": "true",
+                  "x-source-type": "static-imported",
+                  "x-source-var": "t
+-----------------------------------
+       "x-source-type": "static-imported",
+                  "x-source-var": "tiers",
+                  "x-source-file-abs": "/app/frontend/src/pages/SmartVillage.jsx",
+                  "x-source-line": "17",
+                  "x-source-editable": "true",
+                  "x-array-var": "tiers",
+ 
+-----------------------------------
+E__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)(_components_CTA__WEBPACK_IMPORTED_MODULE_12__["default"], {
+      "x-file-name": "SmartVillage",
+      "x-line-number": "75",
+      "x-column": "6",
+      "x-component": "CTA",
+      "x-id": "SmartVillage_75_6",
+      "x-dynamic": "
+-----------------------------------
+2__["default"], {
+      "x-file-name": "SmartVillage",
+      "x-line-number": "75",
+      "x-column": "6",
+      "x-component": "CTA",
+      "x-id": "SmartVillage_75_6",
+      "x-dynamic": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 75,
+      columnNumber: 7
+    },
+-----------------------------------
+c": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 75,
+      columnNumber: 7
+    }, this)]
+  }, void 0, true);
+}
+_c = SmartVillage;
+var _c;
+__webpack_require__.$Refresh$.register(_c, "SmartVillage");
+
+const $ReactRefreshModuleId$ = __webpack_require__.$Refresh$.module
+-----------------------------------
+     lineNumber: 75,
+      columnNumber: 7
+    }, this)]
+  }, void 0, true);
+}
+_c = SmartVillage;
+var _c;
+__webpack_require__.$Refresh$.register(_c, "SmartVillage");
+
+const $ReactRefreshModuleId$ = __webpack_require__.$Refresh$.moduleId;
+const $ReactRefreshCurrentExports$ = __react_refresh_utils__.g
+-----------------------------------
+=== SEARCH TERM: Insights ===
+llage__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./pages/SmartVillage */ "./src/pages/SmartVillage.jsx");
+/* harmony import */ var _pages_Insights__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./pages/Insights */ "./src/pages/Insights.jsx");
+/* harmony import */ var _pages_Team
+-----------------------------------
+tVillage */ "./src/pages/SmartVillage.jsx");
+/* harmony import */ var _pages_Insights__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./pages/Insights */ "./src/pages/Insights.jsx");
+/* harmony import */ var _pages_Team__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./pages/Team */ 
+-----------------------------------
+E_2__.Route, {
+            path: "/insights",
+            element: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_13__.jsxDEV)(_pages_Insights__WEBPACK_IMPORTED_MODULE_10__["default"], {
+              "x-file-name": "App",
+              "x-line-number": "33",
+              "x-column"
+-----------------------------------
+["default"], {
+              "x-file-name": "App",
+              "x-line-number": "33",
+              "x-column": "45",
+              "x-component": "Insights",
+              "x-id": "App_33_45",
+              "x-dynamic": "true",
+              "x-excluded": "true"
+            }, void 0, false, {
+  
+-----------------------------------
+Exports$.then($ReactRefreshModuleRuntime$);
+} else {
+	$ReactRefreshModuleRuntime$($ReactRefreshCurrentExports$);
+}
+
+/***/ },
+
+/***/ "./src/components/InsightsSection.jsx"
+/*!********************************************!*\
+  !*** ./src/components/InsightsSection.jsx ***!
+  \**************************
+-----------------------------------
+urrentExports$);
+}
+
+/***/ },
+
+/***/ "./src/components/InsightsSection.jsx"
+/*!********************************************!*\
+  !*** ./src/components/InsightsSection.jsx ***!
+  \********************************************/
+(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpac
+-----------------------------------
+re__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ InsightsSection)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modul
+-----------------------------------
+equire__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+
+var _jsxFileName = "/app/frontend/src/components/InsightsSection.jsx";
+
+
+
+
+
+function InsightsSection({
+  full = false
+}) {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.
+-----------------------------------
+URE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("section", {
+    className: "py-20 lg:py-28 bg-slate-50/60",
+    "x-file-name": "InsightsSection",
+    "x-line-number": "8",
+    "x-column": "4",
+    "x-component": "section",
+    "x-id": "InsightsSection_8_4",
+    "x-dynamic": "fa
+-----------------------------------
+y-28 bg-slate-50/60",
+    "x-file-name": "InsightsSection",
+    "x-line-number": "8",
+    "x-column": "4",
+    "x-component": "section",
+    "x-id": "InsightsSection_8_4",
+    "x-dynamic": "false",
+    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
+    
+-----------------------------------
+RE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
+      className: "max-w-7xl mx-auto px-5 lg:px-8",
+      "x-file-name": "InsightsSection",
+      "x-line-number": "9",
+      "x-column": "6",
+      "x-component": "div",
+      "x-id": "InsightsSection_9_6",
+      "x-dynamic
+-----------------------------------
+ px-5 lg:px-8",
+      "x-file-name": "InsightsSection",
+      "x-line-number": "9",
+      "x-column": "6",
+      "x-component": "div",
+      "x-id": "InsightsSection_9_6",
+      "x-dynamic": "false",
+      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
+-----------------------------------
+sx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
+        className: "flex items-end justify-between gap-6 mb-10",
+        "x-file-name": "InsightsSection",
+        "x-line-number": "10",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "InsightsSection_10_8",
+      
+-----------------------------------
+10",
+        "x-file-name": "InsightsSection",
+        "x-line-number": "10",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "InsightsSection_10_8",
+        "x-dynamic": "true",
+        "x-source-type": "computed",
+        "x-source-editable": "false",
+        children: [/*#_
+-----------------------------------
+-editable": "false",
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
+          "x-file-name": "InsightsSection",
+          "x-line-number": "11",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "InsightsSection_11_1
+-----------------------------------
+    "x-file-name": "InsightsSection",
+          "x-line-number": "11",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "InsightsSection_11_10",
+          "x-dynamic": "false",
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV
+-----------------------------------
+_.jsxDEV)("div", {
+            className: "text-[10.5px] uppercase tracking-[0.2em] font-semibold text-emerald-700 mb-3",
+            "x-file-name": "InsightsSection",
+            "x-line-number": "12",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "InsightsSect
+-----------------------------------
+ile-name": "InsightsSection",
+            "x-line-number": "12",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "InsightsSection_12_12",
+            "x-dynamic": "false",
+            children: "Insights"
+          }, void 0, false, {
+            fileName: _jsxFil
+-----------------------------------
+olumn": "12",
+            "x-component": "div",
+            "x-id": "InsightsSection_12_12",
+            "x-dynamic": "false",
+            children: "Insights"
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 12,
+            columnNumber: 13
+          }, this
+-----------------------------------
+TED_MODULE_4__.jsxDEV)("h2", {
+            className: "font-display text-3xl lg:text-4xl font-semibold text-emerald-950",
+            "x-file-name": "InsightsSection",
+            "x-line-number": "13",
+            "x-column": "12",
+            "x-component": "h2",
+            "x-id": "InsightsSecti
+-----------------------------------
+file-name": "InsightsSection",
+            "x-line-number": "13",
+            "x-column": "12",
+            "x-component": "h2",
+            "x-id": "InsightsSection_13_12",
+            "x-dynamic": "false",
+            children: "From our research desk."
+          }, void 0, false, {
+            fi
+-----------------------------------
+ACK_IMPORTED_MODULE_4__.jsxDEV)(lucide_react__WEBPACK_IMPORTED_MODULE_2__["default"], {
+            className: "w-4 h-4",
+            "x-file-name": "InsightsSection",
+            "x-line-number": "17",
+            "x-column": "27",
+            "x-component": "ArrowUpRight",
+            "x-id": "Ins
+-----------------------------------
+: "InsightsSection",
+            "x-line-number": "17",
+            "x-column": "27",
+            "x-component": "ArrowUpRight",
+            "x-id": "InsightsSection_17_27",
+            "x-dynamic": "false"
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 17,
+-----------------------------------
+URE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
+        className: "grid md:grid-cols-3 gap-5",
+        "x-file-name": "InsightsSection",
+        "x-line-number": "22",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "InsightsSection_22_8",
+      
+-----------------------------------
+-5",
+        "x-file-name": "InsightsSection",
+        "x-line-number": "22",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "InsightsSection_22_8",
+        "x-dynamic": "true",
+        "x-source-type": "computed",
+        "x-source-editable": "false",
+        children: _mock
+-----------------------------------
+EV)("article", {
+          className: "card-hover group rounded-2xl bg-white border border-emerald-900/10 overflow-hidden",
+          "x-file-name": "InsightsSection",
+          "x-line-number": "24",
+          "x-column": "12",
+          "x-component": "article",
+          "x-id": "InsightsSection_
+-----------------------------------
+"x-file-name": "InsightsSection",
+          "x-line-number": "24",
+          "x-column": "12",
+          "x-component": "article",
+          "x-id": "InsightsSection_24_12",
+          "x-dynamic": "false",
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV
+-----------------------------------
+ct_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
+            className: "aspect-[16/10] overflow-hidden",
+            "x-file-name": "InsightsSection",
+            "x-line-number": "25",
+            "x-column": "14",
+            "x-component": "div",
+            "x-id": "InsightsSect
+-----------------------------------
+ile-name": "InsightsSection",
+            "x-line-number": "25",
+            "x-column": "14",
+            "x-component": "div",
+            "x-id": "InsightsSection_25_14",
+            "x-dynamic": "false",
+            children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx
+-----------------------------------
+a.title,
+              className: "w-full h-full object-cover group-hover:scale-105 transition-transform duration-700",
+              "x-file-name": "InsightsSection",
+              "x-line-number": "26",
+              "x-column": "16",
+              "x-component": "img",
+              "x-id": "Insi
+-----------------------------------
+": "InsightsSection",
+              "x-line-number": "26",
+              "x-column": "16",
+              "x-component": "img",
+              "x-id": "InsightsSection_26_16",
+              "x-dynamic": "false"
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNum
+-----------------------------------
+ this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
+            className: "p-6",
+            "x-file-name": "InsightsSection",
+            "x-line-number": "28",
+            "x-column": "14",
+            "x-component": "div",
+            "x-id": "InsightsSect
+-----------------------------------
+ile-name": "InsightsSection",
+            "x-line-number": "28",
+            "x-column": "14",
+            "x-component": "div",
+            "x-id": "InsightsSection_28_14",
+            "x-dynamic": "false",
+            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.js
+-----------------------------------
+              className: "flex items-center gap-3 text-[11px] uppercase tracking-wider text-emerald-700 font-semibold",
+              "x-file-name": "InsightsSection",
+              "x-line-number": "29",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "Insi
+-----------------------------------
+": "InsightsSection",
+              "x-line-number": "29",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "InsightsSection_29_16",
+              "x-dynamic": "false",
+              children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4_
+-----------------------------------
+false",
+              children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("span", {
+                "x-file-name": "InsightsSection",
+                "x-line-number": "30",
+                "x-column": "18",
+                "x-component": "span",
+                "x-i
+-----------------------------------
+htsSection",
+                "x-line-number": "30",
+                "x-column": "18",
+                "x-component": "span",
+                "x-id": "InsightsSection_30_18",
+                "x-dynamic": "true",
+                "x-source-type": "static-imported",
+                "x-source-var": "insi
+-----------------------------------
+untime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("span", {
+                className: "w-1 h-1 rounded-full bg-slate-300",
+                "x-file-name": "InsightsSection",
+                "x-line-number": "31",
+                "x-column": "18",
+                "x-component": "span",
+                "x-i
+-----------------------------------
+htsSection",
+                "x-line-number": "31",
+                "x-column": "18",
+                "x-component": "span",
+                "x-id": "InsightsSection_31_18",
+                "x-dynamic": "false"
+              }, void 0, false, {
+                fileName: _jsxFileName,
+               
+-----------------------------------
+TED_MODULE_4__.jsxDEV)("span", {
+                className: "text-slate-500 normal-case tracking-normal font-medium",
+                "x-file-name": "InsightsSection",
+                "x-line-number": "32",
+                "x-column": "18",
+                "x-component": "span",
+                "x-i
+-----------------------------------
+htsSection",
+                "x-line-number": "32",
+                "x-column": "18",
+                "x-component": "span",
+                "x-id": "InsightsSection_32_18",
+                "x-dynamic": "true",
+                "x-source-type": "static-imported",
+                "x-source-var": "insi
+-----------------------------------
+"mt-3 font-display text-lg font-semibold text-emerald-950 leading-snug group-hover:text-emerald-700 transition-colors",
+              "x-file-name": "InsightsSection",
+              "x-line-number": "34",
+              "x-column": "16",
+              "x-component": "h3",
+              "x-id": "Insig
+-----------------------------------
+e": "InsightsSection",
+              "x-line-number": "34",
+              "x-column": "16",
+              "x-component": "h3",
+              "x-id": "InsightsSection_34_16",
+              "x-dynamic": "true",
+              "x-source-type": "static-imported",
+              "x-source-var": "insights",
+-----------------------------------
+EBPACK_IMPORTED_MODULE_4__.jsxDEV)("p", {
+              className: "mt-2 text-[13.5px] text-slate-600 leading-relaxed",
+              "x-file-name": "InsightsSection",
+              "x-line-number": "35",
+              "x-column": "16",
+              "x-component": "p",
+              "x-id": "Insigh
+-----------------------------------
+me": "InsightsSection",
+              "x-line-number": "35",
+              "x-column": "16",
+              "x-component": "p",
+              "x-id": "InsightsSection_35_16",
+              "x-dynamic": "true",
+              "x-source-type": "static-imported",
+              "x-source-var": "insights",
+-----------------------------------
+EV)("div", {
+              className: "mt-4 inline-flex items-center gap-1 text-[13px] font-semibold text-emerald-800",
+              "x-file-name": "InsightsSection",
+              "x-line-number": "36",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "Insi
+-----------------------------------
+": "InsightsSection",
+              "x-line-number": "36",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "InsightsSection_36_16",
+              "x-dynamic": "false",
+              children: ["Read article ", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_I
+-----------------------------------
+RTED_MODULE_4__.jsxDEV)(lucide_react__WEBPACK_IMPORTED_MODULE_2__["default"], {
+                className: "w-4 h-4",
+                "x-file-name": "InsightsSection",
+                "x-line-number": "36",
+                "x-column": "125",
+                "x-component": "ArrowUpRight",
+           
+-----------------------------------
+n",
+                "x-line-number": "36",
+                "x-column": "125",
+                "x-component": "ArrowUpRight",
+                "x-id": "InsightsSection_36_125",
+                "x-dynamic": "true",
+                "x-source-type": "static-imported",
+                "x-source-var": "ins
+-----------------------------------
+er: 9,
+      columnNumber: 7
+    }, this)
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 8,
+    columnNumber: 5
+  }, this);
+}
+_c = InsightsSection;
+var _c;
+__webpack_require__.$Refresh$.register(_c, "InsightsSection");
+
+const $ReactRefreshModuleId$ = __webpack_require__.$Refresh$.
+-----------------------------------
+ileName: _jsxFileName,
+    lineNumber: 8,
+    columnNumber: 5
+  }, this);
+}
+_c = InsightsSection;
+var _c;
+__webpack_require__.$Refresh$.register(_c, "InsightsSection");
+
+const $ReactRefreshModuleId$ = __webpack_require__.$Refresh$.moduleId;
+const $ReactRefreshCurrentExports$ = __react_refresh_utils_
+-----------------------------------
+
+}, {
+  label: "About",
+  to: "/about"
+}, {
+  label: "Services",
+  to: "/services"
+}, {
+  label: "SmartVillage",
+  to: "/smartvillage"
+}, {
+  label: "Insights",
+  to: "/insights"
+}, {
+  label: "Team",
+  to: "/team"
+}, {
+  label: "Contact",
+  to: "/contact"
+}];
+
+const $ReactRefreshModuleId$ = __webpa
+-----------------------------------
+MPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Testimonials */ "./src/components/Testimonials.jsx");
+/* harmony import */ var _components_InsightsSection__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/InsightsSection */ "./src/components/InsightsSection.jsx");
+/* ha
+-----------------------------------
+ponents/Testimonials.jsx");
+/* harmony import */ var _components_InsightsSection__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/InsightsSection */ "./src/components/InsightsSection.jsx");
+/* harmony import */ var _components_CTA__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require_
+-----------------------------------
+ame,
+      lineNumber: 19,
+      columnNumber: 7
+    }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_components_InsightsSection__WEBPACK_IMPORTED_MODULE_7__["default"], {
+      "x-file-name": "Home",
+      "x-line-number": "20",
+      "x-column": "6",
+      "x-c
+-----------------------------------
+ion__WEBPACK_IMPORTED_MODULE_7__["default"], {
+      "x-file-name": "Home",
+      "x-line-number": "20",
+      "x-column": "6",
+      "x-component": "InsightsSection",
+      "x-id": "Home_20_6",
+      "x-dynamic": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+   
+-----------------------------------
+rrentExports$.then($ReactRefreshModuleRuntime$);
+} else {
+	$ReactRefreshModuleRuntime$($ReactRefreshCurrentExports$);
+}
+
+/***/ },
+
+/***/ "./src/pages/Insights.jsx"
+/*!********************************!*\
+  !*** ./src/pages/Insights.jsx ***!
+  \********************************/
+(module, __webpack_expo
+-----------------------------------
+ModuleRuntime$($ReactRefreshCurrentExports$);
+}
+
+/***/ },
+
+/***/ "./src/pages/Insights.jsx"
+/*!********************************!*\
+  !*** ./src/pages/Insights.jsx ***!
+  \********************************/
+(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__web
+-----------------------------------
+re__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Insights)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/reac
+-----------------------------------
+CK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/PageHeader */ "./src/components/PageHeader.jsx");
+/* harmony import */ var _components_InsightsSection__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/InsightsSection */ "./src/components/InsightsSection.jsx");
+/* ha
+-----------------------------------
+omponents/PageHeader.jsx");
+/* harmony import */ var _components_InsightsSection__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/InsightsSection */ "./src/components/InsightsSection.jsx");
+/* harmony import */ var _mock__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../m
+-----------------------------------
+ack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+
+var _jsxFileName = "/app/frontend/src/pages/Insights.jsx";
+
+
+
+
+
+
+
+function Insights() {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(react_jsx_dev_runtime_
+-----------------------------------
+act_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_components_PageHeader__WEBPACK_IMPORTED_MODULE_1__["default"], {
+      eyebrow: "Research & Insights",
+      title: "Field notes from India's agri-risk frontier.",
+      subtitle: "Working papers, playbooks and thought leadership from our act
+-----------------------------------
+rontier.",
+      subtitle: "Working papers, playbooks and thought leadership from our actuarial, geospatial and policy teams.",
+      "x-file-name": "Insights",
+      "x-line-number": "11",
+      "x-column": "6",
+      "x-component": "PageHeader",
+      "x-id": "Insights_11_6",
+      "x-dynamic": "t
+-----------------------------------
+olicy teams.",
+      "x-file-name": "Insights",
+      "x-line-number": "11",
+      "x-column": "6",
+      "x-component": "PageHeader",
+      "x-id": "Insights_11_6",
+      "x-dynamic": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 11,
+      columnNumber: 7
+    }, thi
+-----------------------------------
+ame,
+      lineNumber: 11,
+      columnNumber: 7
+    }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_components_InsightsSection__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      full: true,
+      "x-file-name": "Insights",
+      "x-line-number": "16",
+      "x-co
+-----------------------------------
+e__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_components_InsightsSection__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      full: true,
+      "x-file-name": "Insights",
+      "x-line-number": "16",
+      "x-column": "6",
+      "x-component": "InsightsSection",
+      "x-id": "Insights_16_6",
+      "x-dynamic
+-----------------------------------
+MODULE_2__["default"], {
+      full: true,
+      "x-file-name": "Insights",
+      "x-line-number": "16",
+      "x-column": "6",
+      "x-component": "InsightsSection",
+      "x-id": "Insights_16_6",
+      "x-dynamic": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 16,
+-----------------------------------
+is), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("section", {
+      className: "py-20 bg-white",
+      "x-file-name": "Insights",
+      "x-line-number": "18",
+      "x-column": "6",
+      "x-component": "section",
+      "x-id": "Insights_18_6",
+      "x-dynamic": "fals
+-----------------------------------
+"py-20 bg-white",
+      "x-file-name": "Insights",
+      "x-line-number": "18",
+      "x-column": "6",
+      "x-component": "section",
+      "x-id": "Insights_18_6",
+      "x-dynamic": "false",
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("div", {
+      
+-----------------------------------
+*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("div", {
+        className: "max-w-4xl mx-auto px-5 lg:px-8",
+        "x-file-name": "Insights",
+        "x-line-number": "19",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "Insights_19_8",
+        "x-dynamic":
+-----------------------------------
+5 lg:px-8",
+        "x-file-name": "Insights",
+        "x-line-number": "19",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "Insights_19_8",
+        "x-dynamic": "false",
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("div", {
+ 
+-----------------------------------
+#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("div", {
+          className: "text-center mb-10",
+          "x-file-name": "Insights",
+          "x-line-number": "20",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "Insights_20_10",
+          
+-----------------------------------
+
+          "x-file-name": "Insights",
+          "x-line-number": "20",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "Insights_20_10",
+          "x-dynamic": "false",
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("div"
+-----------------------------------
+_.jsxDEV)("div", {
+            className: "text-[10.5px] uppercase tracking-[0.2em] font-semibold text-emerald-700 mb-3",
+            "x-file-name": "Insights",
+            "x-line-number": "21",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "Insights_21_12",
+  
+-----------------------------------
+   "x-file-name": "Insights",
+            "x-line-number": "21",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "Insights_21_12",
+            "x-dynamic": "false",
+            children: "FAQ"
+          }, void 0, false, {
+            fileName: _jsxFileName,
+     
+-----------------------------------
+TED_MODULE_6__.jsxDEV)("h2", {
+            className: "font-display text-3xl lg:text-4xl font-semibold text-emerald-950",
+            "x-file-name": "Insights",
+            "x-line-number": "22",
+            "x-column": "12",
+            "x-component": "h2",
+            "x-id": "Insights_22_12",
+   
+-----------------------------------
+    "x-file-name": "Insights",
+            "x-line-number": "22",
+            "x-column": "12",
+            "x-component": "h2",
+            "x-id": "Insights_22_12",
+            "x-dynamic": "false",
+            children: "Frequently asked questions"
+          }, void 0, false, {
+            fileNa
+-----------------------------------
+K_IMPORTED_MODULE_5__.Accordion, {
+          type: "single",
+          collapsible: true,
+          className: "space-y-3",
+          "x-file-name": "Insights",
+          "x-line-number": "24",
+          "x-column": "10",
+          "x-component": "Accordion",
+          "x-id": "Insights_24_10",
+    
+-----------------------------------
+     "x-file-name": "Insights",
+          "x-line-number": "24",
+          "x-column": "10",
+          "x-component": "Accordion",
+          "x-id": "Insights_24_10",
+          "x-dynamic": "true",
+          "x-source-type": "computed",
+          "x-source-editable": "false",
+          children: _mo
+-----------------------------------
+onItem, {
+            value: `item-${i}`,
+            className: "border border-emerald-900/10 rounded-xl px-5 bg-white",
+            "x-file-name": "Insights",
+            "x-line-number": "26",
+            "x-column": "14",
+            "x-component": "AccordionItem",
+            "x-id": "Insights_
+-----------------------------------
+-name": "Insights",
+            "x-line-number": "26",
+            "x-column": "14",
+            "x-component": "AccordionItem",
+            "x-id": "Insights_26_14",
+            "x-dynamic": "true",
+            "x-source-type": "static-imported",
+            "x-source-var": "faqs",
+            "x-s
+-----------------------------------
+, {
+              className: "text-left font-display text-base font-semibold text-emerald-950 hover:no-underline py-5",
+              "x-file-name": "Insights",
+              "x-line-number": "27",
+              "x-column": "16",
+              "x-component": "AccordionTrigger",
+              "x-id":
+-----------------------------------
+sights",
+              "x-line-number": "27",
+              "x-column": "16",
+              "x-component": "AccordionTrigger",
+              "x-id": "Insights_27_16",
+              "x-dynamic": "true",
+              "x-excluded": "true",
+              "x-source-type": "static-imported",
+            
+-----------------------------------
+ACK_IMPORTED_MODULE_5__.AccordionContent, {
+              className: "text-slate-600 text-[14px] leading-relaxed pb-5",
+              "x-file-name": "Insights",
+              "x-line-number": "28",
+              "x-column": "16",
+              "x-component": "AccordionContent",
+              "x-id":
+-----------------------------------
+sights",
+              "x-line-number": "28",
+              "x-column": "16",
+              "x-component": "AccordionContent",
+              "x-id": "Insights_28_16",
+              "x-dynamic": "true",
+              "x-excluded": "true",
+              "x-source-type": "static-imported",
+            
+-----------------------------------
+URE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_components_CTA__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      "x-file-name": "Insights",
+      "x-line-number": "34",
+      "x-column": "6",
+      "x-component": "CTA",
+      "x-id": "Insights_34_6",
+      "x-dynamic": "true"
+  
+-----------------------------------
+ULE_4__["default"], {
+      "x-file-name": "Insights",
+      "x-line-number": "34",
+      "x-column": "6",
+      "x-component": "CTA",
+      "x-id": "Insights_34_6",
+      "x-dynamic": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 34,
+      columnNumber: 7
+    }, thi
+-----------------------------------
+c": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 34,
+      columnNumber: 7
+    }, this)]
+  }, void 0, true);
+}
+_c = Insights;
+var _c;
+__webpack_require__.$Refresh$.register(_c, "Insights");
+
+const $ReactRefreshModuleId$ = __webpack_require__.$Refresh$.moduleId;
+cons
+-----------------------------------
+e,
+      lineNumber: 34,
+      columnNumber: 7
+    }, this)]
+  }, void 0, true);
+}
+_c = Insights;
+var _c;
+__webpack_require__.$Refresh$.register(_c, "Insights");
+
+const $ReactRefreshModuleId$ = __webpack_require__.$Refresh$.moduleId;
+const $ReactRefreshCurrentExports$ = __react_refresh_utils__.getMo
+-----------------------------------
+=== SEARCH TERM: Capabilities ===
+Exports$.then($ReactRefreshModuleRuntime$);
+} else {
+	$ReactRefreshModuleRuntime$($ReactRefreshCurrentExports$);
+}
+
+/***/ },
+
+/***/ "./src/components/Capabilities.jsx"
+/*!*****************************************!*\
+  !*** ./src/components/Capabilities.jsx ***!
+  \***********************************
+-----------------------------------
+freshCurrentExports$);
+}
+
+/***/ },
+
+/***/ "./src/components/Capabilities.jsx"
+/*!*****************************************!*\
+  !*** ./src/components/Capabilities.jsx ***!
+  \*****************************************/
+(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_requ
+-----------------------------------
+re__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Capabilities)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/
+-----------------------------------
+equire__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+
+var _jsxFileName = "/app/frontend/src/components/Capabilities.jsx";
+
+
+
+
+const iconMap = {
+  Satellite: lucide_react__WEBPACK_IMPORTED_MODULE_5__["default"],
+  Cpu: lucide_react__WEBPACK_IMPORTED_MODU
+-----------------------------------
+],
+  ShieldCheck: lucide_react__WEBPACK_IMPORTED_MODULE_6__["default"],
+  Languages: lucide_react__WEBPACK_IMPORTED_MODULE_2__["default"]
+};
+function Capabilities() {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("section", {
+    className: "py-20 lg:py-28 bg-wh
+-----------------------------------
+/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("section", {
+    className: "py-20 lg:py-28 bg-white",
+    "x-file-name": "Capabilities",
+    "x-line-number": "9",
+    "x-column": "4",
+    "x-component": "section",
+    "x-id": "Capabilities_9_4",
+    "x-dynamic": "false",
+
+-----------------------------------
+y-20 lg:py-28 bg-white",
+    "x-file-name": "Capabilities",
+    "x-line-number": "9",
+    "x-column": "4",
+    "x-component": "section",
+    "x-id": "Capabilities_9_4",
+    "x-dynamic": "false",
+    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div", {
+      c
+-----------------------------------
+RE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div", {
+      className: "max-w-7xl mx-auto px-5 lg:px-8",
+      "x-file-name": "Capabilities",
+      "x-line-number": "10",
+      "x-column": "6",
+      "x-component": "div",
+      "x-id": "Capabilities_10_6",
+      "x-dynamic": "
+-----------------------------------
+to px-5 lg:px-8",
+      "x-file-name": "Capabilities",
+      "x-line-number": "10",
+      "x-column": "6",
+      "x-component": "div",
+      "x-id": "Capabilities_10_6",
+      "x-dynamic": "false",
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div", {
+  
+-----------------------------------
+t_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div", {
+        className: "grid lg:grid-cols-12 gap-10 items-start",
+        "x-file-name": "Capabilities",
+        "x-line-number": "11",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "Capabilities_11_8",
+        "x-d
+-----------------------------------
+start",
+        "x-file-name": "Capabilities",
+        "x-line-number": "11",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "Capabilities_11_8",
+        "x-dynamic": "false",
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div",
+-----------------------------------
+act_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div", {
+          className: "lg:col-span-4 lg:sticky lg:top-28",
+          "x-file-name": "Capabilities",
+          "x-line-number": "12",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "Capabilities_12_10",
+  
+-----------------------------------
+       "x-file-name": "Capabilities",
+          "x-line-number": "12",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "Capabilities_12_10",
+          "x-dynamic": "false",
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("
+-----------------------------------
+_.jsxDEV)("div", {
+            className: "text-[10.5px] uppercase tracking-[0.2em] font-semibold text-emerald-700 mb-3",
+            "x-file-name": "Capabilities",
+            "x-line-number": "13",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "Capabilities_13
+-----------------------------------
+x-file-name": "Capabilities",
+            "x-line-number": "13",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "Capabilities_13_12",
+            "x-dynamic": "false",
+            children: "Technology Stack"
+          }, void 0, false, {
+            fileName: _j
+-----------------------------------
+.jsxDEV)("h2", {
+            className: "font-display text-3xl lg:text-4xl font-semibold text-emerald-950 leading-tight",
+            "x-file-name": "Capabilities",
+            "x-line-number": "14",
+            "x-column": "12",
+            "x-component": "h2",
+            "x-id": "Capabilities_14_
+-----------------------------------
+"x-file-name": "Capabilities",
+            "x-line-number": "14",
+            "x-column": "12",
+            "x-component": "h2",
+            "x-id": "Capabilities_14_12",
+            "x-dynamic": "false",
+            children: "A tech stack purpose-built for Indian farms."
+          }, void 0, false
+-----------------------------------
+ime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("p", {
+            className: "mt-4 text-[15px] text-slate-600 leading-relaxed",
+            "x-file-name": "Capabilities",
+            "x-line-number": "17",
+            "x-column": "12",
+            "x-component": "p",
+            "x-id": "Capabilities_17_1
+-----------------------------------
+ "x-file-name": "Capabilities",
+            "x-line-number": "17",
+            "x-column": "12",
+            "x-component": "p",
+            "x-id": "Capabilities_17_12",
+            "x-dynamic": "false",
+            children: "We do not retrofit generic tools. Every layer \u2014 satellite, sensor, 
+-----------------------------------
+x_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div", {
+          className: "lg:col-span-8 grid sm:grid-cols-2 gap-4",
+          "x-file-name": "Capabilities",
+          "x-line-number": "22",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "Capabilities_22_10",
+  
+-----------------------------------
+       "x-file-name": "Capabilities",
+          "x-line-number": "22",
+          "x-column": "10",
+          "x-component": "div",
+          "x-id": "Capabilities_22_10",
+          "x-dynamic": "true",
+          "x-source-type": "computed",
+          "x-source-editable": "false",
+          children:
+-----------------------------------
+    className: "card-hover rounded-2xl border border-emerald-900/10 bg-gradient-to-br from-white to-emerald-50/40 p-6",
+              "x-file-name": "Capabilities",
+              "x-line-number": "26",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "Capabil
+-----------------------------------
+ame": "Capabilities",
+              "x-line-number": "26",
+              "x-column": "16",
+              "x-component": "div",
+              "x-id": "Capabilities_26_16",
+              "x-dynamic": "false",
+              children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.j
+-----------------------------------
+ className: "w-11 h-11 rounded-xl bg-emerald-800 text-white grid place-items-center shadow-md shadow-emerald-900/20",
+                "x-file-name": "Capabilities",
+                "x-line-number": "27",
+                "x-column": "18",
+                "x-component": "div",
+                "x-id": 
+-----------------------------------
+apabilities",
+                "x-line-number": "27",
+                "x-column": "18",
+                "x-component": "div",
+                "x-id": "Capabilities_27_18",
+                "x-dynamic": "false",
+                children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8_
+-----------------------------------
+BPACK_IMPORTED_MODULE_8__.jsxDEV)(Icon, {
+                  className: "w-5 h-5",
+                  strokeWidth: 2,
+                  "x-file-name": "Capabilities",
+                  "x-line-number": "28",
+                  "x-column": "20",
+                  "x-component": "Icon",
+                 
+-----------------------------------
+es",
+                  "x-line-number": "28",
+                  "x-column": "20",
+                  "x-component": "Icon",
+                  "x-id": "Capabilities_28_20",
+                  "x-dynamic": "true",
+                  "x-source-type": "static-imported",
+                  "x-source-var": "c
+-----------------------------------
+TED_MODULE_8__.jsxDEV)("h3", {
+                className: "font-display text-lg font-semibold text-emerald-950 mt-4",
+                "x-file-name": "Capabilities",
+                "x-line-number": "30",
+                "x-column": "18",
+                "x-component": "h3",
+                "x-id": "
+-----------------------------------
+Capabilities",
+                "x-line-number": "30",
+                "x-column": "18",
+                "x-component": "h3",
+                "x-id": "Capabilities_30_18",
+                "x-dynamic": "true",
+                "x-source-type": "static-imported",
+                "x-source-var": "capabil
+-----------------------------------
+_IMPORTED_MODULE_8__.jsxDEV)("p", {
+                className: "text-[13.5px] text-slate-600 mt-1.5 leading-relaxed",
+                "x-file-name": "Capabilities",
+                "x-line-number": "31",
+                "x-column": "18",
+                "x-component": "p",
+                "x-id": "C
+-----------------------------------
+"Capabilities",
+                "x-line-number": "31",
+                "x-column": "18",
+                "x-component": "p",
+                "x-id": "Capabilities_31_18",
+                "x-dynamic": "true",
+                "x-source-type": "static-imported",
+                "x-source-var": "capabil
+-----------------------------------
+r: 10,
+      columnNumber: 7
+    }, this)
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 5
+  }, this);
+}
+_c = Capabilities;
+var _c;
+__webpack_require__.$Refresh$.register(_c, "Capabilities");
+
+const $ReactRefreshModuleId$ = __webpack_require__.$Refresh$.module
+-----------------------------------
+  fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 5
+  }, this);
+}
+_c = Capabilities;
+var _c;
+__webpack_require__.$Refresh$.register(_c, "Capabilities");
+
+const $ReactRefreshModuleId$ = __webpack_require__.$Refresh$.moduleId;
+const $ReactRefreshCurrentExports$ = __react_refresh_utils__.g
+-----------------------------------
+nts_CTA__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/CTA */ "./src/components/CTA.jsx");
+/* harmony import */ var _components_Capabilities__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Capabilities */ "./src/components/Capabilities.jsx");
+/* harmony imp
+-----------------------------------
+/ "./src/components/CTA.jsx");
+/* harmony import */ var _components_Capabilities__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Capabilities */ "./src/components/Capabilities.jsx");
+/* harmony import */ var _mock__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../mock */
+-----------------------------------
+ame,
+      lineNumber: 55,
+      columnNumber: 7
+    }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_components_Capabilities__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      "x-file-name": "About",
+      "x-line-number": "66",
+      "x-column": "6",
+      "x-com
+-----------------------------------
+es__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      "x-file-name": "About",
+      "x-line-number": "66",
+      "x-column": "6",
+      "x-component": "Capabilities",
+      "x-id": "About_66_6",
+      "x-dynamic": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 66,
+     
+-----------------------------------
+MPORTED_MODULE_3__ = __webpack_require__(/*! ../components/ServicesGrid */ "./src/components/ServicesGrid.jsx");
+/* harmony import */ var _components_Capabilities__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Capabilities */ "./src/components/Capabilities.jsx");
+/* harmony imp
+-----------------------------------
+components/ServicesGrid.jsx");
+/* harmony import */ var _components_Capabilities__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Capabilities */ "./src/components/Capabilities.jsx");
+/* harmony import */ var _components_ProcessSection__WEBPACK_IMPORTED_MODULE_5__ = __webpack_req
+-----------------------------------
+ame,
+      lineNumber: 16,
+      columnNumber: 7
+    }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_components_Capabilities__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      "x-file-name": "Home",
+      "x-line-number": "17",
+      "x-column": "6",
+      "x-comp
+-----------------------------------
+ies__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      "x-file-name": "Home",
+      "x-line-number": "17",
+      "x-column": "6",
+      "x-component": "Capabilities",
+      "x-id": "Home_17_6",
+      "x-dynamic": "true"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 17,
+      
+-----------------------------------
+fo = element.contentWindow;else break;
+      element = getActiveElement(containerInfo.document);
+    }
+    return element;
+  }
+  function hasSelectionCapabilities(elem) {
+    var nodeName = elem && elem.nodeName && elem.nodeName.toLowerCase();
+    return nodeName && ("input" === nodeName && ("text" 
+-----------------------------------
+fo.ownerDocument && containsNode(containerInfo.ownerDocument.documentElement, containerInfo)) {
+      if (null !== priorSelectionRange && hasSelectionCapabilities(containerInfo)) if (priorSelectionInformation = priorSelectionRange.start, curFocusedElem = priorSelectionRange.end, void 0 === curFocuse
+-----------------------------------
+nt;
+    mouseDown || null == activeElement || activeElement !== getActiveElement(doc) || (doc = activeElement, "selectionStart" in doc && hasSelectionCapabilities(doc) ? doc = {
+      start: doc.selectionStart,
+      end: doc.selectionEnd
+    } : (doc = (doc.ownerDocument && doc.ownerDocument.defaul
+-----------------------------------
+onEffects(root, firstChild) {
+    root = root.containerInfo;
+    eventsEnabled = _enabled;
+    root = getActiveElementDeep(root);
+    if (hasSelectionCapabilities(root)) {
+      if ("selectionStart" in root) var JSCompiler_temp = {
+        start: root.selectionStart,
+        end: root.selectionEnd
+ 
+-----------------------------------
+=== SEARCH TERM: PMFBY ===
+-photo-34182370.jpeg",
+  bullets: ["Sub-plot yield estimation", "Fraud detection via ML", "Real-time claim dashboards"]
+}, {
+  id: "pmfby",
+  title: "PMFBY & RWBCIS Program Support",
+  tag: "For Government & Banks",
+  description: "End-to-end implementation support for Pradhan Mantri Fasal Bima Yojn
+-----------------------------------
+al finance. Ex-AIC India, Ex-Swiss Re.",
+  initials: "RV"
+}, {
+  name: "Aparna Iyer",
+  role: "Chief Actuary",
+  bio: "FIA, IIA. Built cat-models for PMFBY at three GI insurers.",
+  initials: "AI"
+}, {
+  name: "Arjun Malhotra",
+  role: "Head of Geospatial",
+  bio: "IIT-Bombay, ISRO alumni. Leads sat
+-----------------------------------
+dibility we needed.",
+  name: "Head of Agri Reinsurance",
+  org: "Global Reinsurer"
+}];
+const insights = [{
+  title: "Monsoon 2025 Outlook: Preparing PMFBY Portfolios for La Niña Rebound",
+  date: "12 Jul 2025",
+  category: "Weather Intelligence",
+  image: "https://images.pexels.com/photos/32358153/
+-----------------------------------
+ces Private Limited was incorporated in 2023 by a small team of actuaries, geospatial scientists and agri-economists with a combined 60+ years across PMFBY, weather-indexed products and IoT-enabled precision farming."
+            }, void 0, false, {
+              fileName: _jsxFileName,
+            
+-----------------------------------
+    "x-id": "Contact_94_22",
+                      "x-dynamic": "false",
+                      "x-excluded": "true",
+                      children: "PMFBY / RWBCIS Support"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 94,
+  
+-----------------------------------
+ Agri Departments",
+  featured: true,
+  price: "Custom",
+  features: ["Everything in Village", "District & block dashboards", "CCE audit workflows", "PMFBY integration & MIS", "On-ground drone squads"]
+}, {
+  name: "Enterprise",
+  subtitle: "For Insurers & Reinsurers",
+  price: "Custom",
+  features:
+-----------------------------------
+=== SEARCH TERM: Ground-truthing ===
+=== SEARCH TERM: Yield ===
+toFixed(2)
+            }, {
+              l: "Rain",
+              v: `${(42 + Math.sin(t / 6) * 3).toFixed(0)}mm`
+            }, {
+              l: "Yield",
+              v: `${(4.1 + Math.sin(t / 10) * 0.15).toFixed(1)}t/ha`
+            }].map(x => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IM
+-----------------------------------
+ models point to a normal-to-above monsoon with sharp spatial heterogeneity. Here's how underwriters should recalibrate."
+}, {
+  title: "Why Sub-plot Yield Estimation Beats Village-level CCEs",
+  date: "28 Jun 2025",
+  category: "Claims Intelligence",
+  image: "https://images.pexels.com/photos/34182
+-----------------------------------
+esc: "NDVI-driven plot health, sowing detection and biomass estimation."
+}, {
+  icon: lucide_react__WEBPACK_IMPORTED_MODULE_3__["default"],
+  title: "Yield Prediction",
+  desc: "Season-long yield tracking with mid-season claim triggers."
+}, {
+  icon: lucide_react__WEBPACK_IMPORTED_MODULE_9__["defaul
+-----------------------------------
+ntered an error: %s", err));
+    }
+  }
+  function setIsStrictModeForDevtools(newIsStrictMode) {
+    "function" === typeof log$1 && unstable_setDisableYieldValue(newIsStrictMode);
+    if (injectedHook && "function" === typeof injectedHook.setStrictMode) try {
+      injectedHook.setStrictMode(renderer
+-----------------------------------
+arkRootSuspended(workInProgressRoot, workInProgressRootRenderLanes, workInProgressDeferredLane, !1);
+  }
+  function renderRootSync(root, lanes, shouldYieldForPrerendering) {
+    var prevExecutionContext = executionContext;
+    executionContext |= RenderContext;
+    var prevDispatcher = pushDispatche
+-----------------------------------
+ended;
+            workInProgressThrownValue = null;
+            throwAndUnwindWorkLoop(root, unitOfWork, thrownValue, reason);
+            if (shouldYieldForPrerendering && workInProgressRootIsPrerendering) {
+              memoizedUpdaters = RootInProgress;
+              break a;
+            }
+    
+-----------------------------------
+evExecutionContext;
+    if (null !== workInProgress) return null !== injectedProfilingHooks && "function" === typeof injectedProfilingHooks.markRenderYielded && injectedProfilingHooks.markRenderYielded(), RootInProgress;
+    markRenderStopped();
+    workInProgressRoot = null;
+    workInProgressRootR
+-----------------------------------
+ueingConcurrentUpdates();
+    return workInProgressRootExitStatus;
+  }
+  function workLoopConcurrent() {
+    for (; null !== workInProgress && !shouldYield();) performUnitOfWork(workInProgress);
+  }
+  function performUnitOfWork(unitOfWork) {
+    var current = unitOfWork.alternate;
+    (unitOfWork.mo
+-----------------------------------
+ype.hasOwnProperty,
+    scheduleCallback$3 = Scheduler.unstable_scheduleCallback,
+    cancelCallback$1 = Scheduler.unstable_cancelCallback,
+    shouldYield = Scheduler.unstable_shouldYield,
+    requestPaint = Scheduler.unstable_requestPaint,
+    now$1 = Scheduler.unstable_now,
+    getCurrentPriority
+-----------------------------------
+  LowPriority = Scheduler.unstable_LowPriority,
+    IdlePriority = Scheduler.unstable_IdlePriority,
+    log$1 = Scheduler.log,
+    unstable_setDisableYieldValue = Scheduler.unstable_setDisableYieldValue,
+    rendererID = null,
+    injectedHook = null,
+    injectedProfilingHooks = null,
+    hasLogged
+-----------------------------------
+nceTimers(currentTime);
+              for (currentTask = peek(taskQueue); null !== currentTask && !(currentTask.expirationTime > currentTime && shouldYieldToHost());) {
+                var callback = currentTask.callback;
+                if ("function" === typeof callback) {
+                  curren
+-----------------------------------
+er = peek(timerQueue);
+      null !== firstTimer && requestHostTimeout(handleTimeout, firstTimer.startTime - currentTime);
+    }
+  }
+  function shouldYieldToHost() {
+    return exports.unstable_now() - startTime < frameInterval ? !1 : !0;
+  }
+  function requestHostCallback() {
+    isMessageLoopRunni
+-----------------------------------
+lbackScheduled || isPerformingWork || (isHostCallbackScheduled = !0, requestHostCallback()));
+    return priorityLevel;
+  };
+  exports.unstable_shouldYield = shouldYieldToHost;
+  exports.unstable_wrapCallback = function (callback) {
+    var parentPriorityLevel = currentPriorityLevel;
+    return func
+-----------------------------------
+c function stringify(stack) {
+  const {
+    deferred,
+    indices,
+    plugins,
+    postPlugins
+  } = this;
+  const str = this.stringified;
+  let lastYieldTime = getNow();
+  const flattenValue = value => {
+    const existing = indices.get(value);
+    if (existing) return [existing];
+    if (value ==
+-----------------------------------
+push([value, index]);
+    return index;
+  };
+  let i = 0;
+  while (stack.length > 0) {
+    const now = getNow();
+    if (++i % 6e3 === 0 && now - lastYieldTime >= TIME_LIMIT_MS) {
+      await yieldToMain();
+      lastYieldTime = getNow();
+    }
+    const [input, index] = stack.pop();
+    const parts
+-----------------------------------
+stack.length > 0) {
+    const now = getNow();
+    if (++i % 6e3 === 0 && now - lastYieldTime >= TIME_LIMIT_MS) {
+      await yieldToMain();
+      lastYieldTime = getNow();
+    }
+    const [input, index] = stack.pop();
+    const partsForObj = obj => Object.keys(obj).map(k => `"_${flattenValue(k)}":${
+-----------------------------------
