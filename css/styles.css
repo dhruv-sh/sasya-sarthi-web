@@ -146,11 +146,12 @@ a {
 .main-header {
   position: sticky;
   top: 0;
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(243, 242, 237, 0.98);
   backdrop-filter: blur(12px);
   z-index: 1000;
   box-shadow: var(--shadow-sm);
   transition: var(--transition-normal);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .navbar {
@@ -165,12 +166,16 @@ a {
   align-items: center;
   gap: 0.5rem;
   height: 78px;
+  background: #F3F2ED;
+  border-radius: 8px;
+  padding: 2px;
 }
 
 .brand-logo img {
   height: 100%;
   width: auto;
   object-fit: contain;
+  mix-blend-mode: multiply;
 }
 
 .nav-menu {
