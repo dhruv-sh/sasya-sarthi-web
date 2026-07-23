@@ -352,8 +352,19 @@ document.addEventListener('DOMContentLoaded', () => {
     contactForm.addEventListener('submit', (e) => {
       e.preventDefault();
       alert("✅ Thank you! Your consultation request has been submitted to Sasya Sarthi Tech Solutions. Our agricultural risk expert will contact you shortly.");
-      contactForm.reset();
+  // 7. Mobile Navigation Menu Toggle
+  const mobileToggle = document.getElementById('mobileToggle');
+  const navMenu = document.querySelector('.nav-menu');
+  if (mobileToggle && navMenu) {
+    mobileToggle.addEventListener('click', () => {
+      navMenu.classList.toggle('mobile-active');
+      const icon = mobileToggle.querySelector('i');
+      if (icon) {
+        icon.classList.toggle('fa-bars');
+        icon.classList.toggle('fa-xmark');
+      }
     });
   }
 });
+
 
